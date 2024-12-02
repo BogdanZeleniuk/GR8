@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ea48ac4-5b55-4366-86b6-f0c2214e27ff" name="Changes" comment="Init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pOkRM3pUhxCTI2ha4sg3tE57al" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.GR8TestProject [clean,validate,compile].executor": "Run",
+    "Maven.GR8TestProject [test,-Denv=qa].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/nataliiazeleniuk/Desktop/Studying_IT/GR8TestProject/config/testng/openBreweryDb.xml.executor": "Run",
+    "TestNG.SearchBreweriesTest.executor": "Run",
+    "TestNG.SearchBreweriesTest.searchForBreweries.executor": "Run",
+    "TestNG.SearchBreweriesTest.searchForBreweriesByInvalidInputParameters.executor": "Run",
+    "TestNG.SearchBreweriesTest.searchForBreweriesByValidInputParameters.executor": "Run",
+    "TestNG.SearchBreweriesTest.searchForBrewery.executor": "Run",
+    "TestNG.SearchBreweriesTest.searchForBreweryByDifferentParameters.executor": "Run",
+    "TestNG.SearchBreweriesTest.validateBreweriesAutocompleteFeature.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nataliiazeleniuk/Desktop/Studying_IT/GR8TestProject",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/env" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/testng" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test -Denv=qa" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/nataliiazeleniuk/Desktop/Studying_IT/GR8TestProject/config/testng/openBreweryDb.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="GR8TestProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="GR8TestProject" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchBreweriesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GR8TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gr8.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gr8.api" />
+      <option name="MAIN_CLASS_NAME" value="org.gr8.api.tests.SearchBreweriesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchBreweriesTest.searchForBreweriesByInvalidInputParameters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GR8TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gr8.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gr8.api" />
+      <option name="MAIN_CLASS_NAME" value="org.gr8.api.tests.SearchBreweriesTest" />
+      <option name="METHOD_NAME" value="searchForBreweriesByInvalidInputParameters" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchBreweriesTest.searchForBreweriesByValidInputParameters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GR8TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gr8.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gr8.api" />
+      <option name="MAIN_CLASS_NAME" value="org.gr8.api.tests.SearchBreweriesTest" />
+      <option name="METHOD_NAME" value="searchForBreweriesByValidInputParameters" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchBreweriesTest.validateBreweriesAutocompleteFeature" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GR8TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gr8.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gr8.api" />
+      <option name="MAIN_CLASS_NAME" value="org.gr8.api.tests.SearchBreweriesTest" />
+      <option name="METHOD_NAME" value="validateBreweriesAutocompleteFeature" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/nataliiazeleniuk/Desktop/Studying_IT/GR8TestProject/config/testng/openBreweryDb.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GR8TestProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/config/testng/openBreweryDb.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/nataliiazeleniuk/Desktop/Studying_IT/GR8TestProject/config/testng/openBreweryDb.xml" />
+        <item itemvalue="TestNG.SearchBreweriesTest" />
+        <item itemvalue="TestNG.SearchBreweriesTest.validateBreweriesAutocompleteFeature" />
+        <item itemvalue="TestNG.SearchBreweriesTest.searchForBreweriesByValidInputParameters" />
+        <item itemvalue="TestNG.SearchBreweriesTest.searchForBreweriesByInvalidInputParameters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ea48ac4-5b55-4366-86b6-f0c2214e27ff" name="Changes" comment="" />
+      <created>1732644501539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732644501539</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1733115131946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733115131946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+  </component>
+</project>

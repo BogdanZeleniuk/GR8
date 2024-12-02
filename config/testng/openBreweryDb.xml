@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Open Brewery DB API test suit" verbose="4" parallel="methods" data-provider-thread-count="5">
+
+    <test name="Search Breweries">
+        <packages>
+            <package name="org.gr8.api.tests.*"/>
+        </packages>
+    </test>
+
+</suite>
